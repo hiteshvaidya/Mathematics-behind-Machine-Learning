@@ -1,2 +1,2 @@
 # Mathematics-behind-Machine-Learning
-Course material from MATH 789
+Course material from RIT's MATH 789
